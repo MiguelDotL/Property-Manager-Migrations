@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Property-Manager-Migrations
+Submission of my property_manager project for Wyncode
+Learning Ruby on Rails basic db functions and commands
+>>>>>>> c8c5c8626e990f7db1a189ffb49a5fa8fb207f28
